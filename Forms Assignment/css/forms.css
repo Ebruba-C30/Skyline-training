@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(135, 191, 229);
+}
+
+h1{
+    color: white;
+    background-color:black;
+    font-size: 40px;
+    text-transform: capitalize;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+p{
+
+    font-size: 25px;
+    color:black;
+    
+}
+
+a{
+    background-color:whitesmoke;
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+    padding: 3px;
+    font-size: 10px;
+    border: solid 1px; 
+    border-radius: 5px;
+    
+   
+   
+}
+
+
+.surname{
+
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.a{
+
+    font-size: 30px;
+}
+
+.b{
+    font-size: 20px;
+    
+}
+
+
+.logo img{
+
+    width: 15%;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+p{
+    text-transform: capitalize;
+}
+
+label{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.bio{
+    display: flex;
+}
+
+.user{
+    display: flex;
+}
+
+.email{
+    display: flex;
+}
+
+
+
+/* here is my input styling */
+
+input[type=text] {
+
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+    color:blue;
+}
+
+
+input[type=password] {
+
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+    color:blue;
+}
+
+input[type=email] {
+
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+    color:blue;
+}
+
+input[type=tel] {
+
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+    color:blue;
+}
+
+input[type=date] {
+
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: blanchedalmond;
+    color:blue;
+}
+
+
+/* submit styling */
+
+.sub{
+
+    font-size: 20px;
+}
+
